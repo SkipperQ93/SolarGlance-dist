@@ -1,8 +1,6 @@
 {
-  "latestCode": 5,
-  "latestName": "1.2",
+  "latestCode": 9000,
+  "latestName": "TEST-9000",
   "apkUrl": "https://github.com/SkipperQ93/SolarGlance-dist/releases/download/v1.2/app-release.apk",
-  "notes": [
-    "check"
-  ]
+  "notes": ["Diagnostic: if you see the Update pill, self-update works end-to-end."]
 }
