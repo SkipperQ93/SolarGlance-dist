@@ -1,6 +1,8 @@
 {
-  "latestCode": 7,
-  "latestName": "1.4",
-  "apkUrl": "https://github.com/SkipperQ93/SolarGlance-dist/releases/download/v1.4/app-release.apk",
-  "notes": []
+  "latestCode": 9,
+  "latestName": "1.5",
+  "apkUrl": "https://github.com/SkipperQ93/SolarGlance-dist/releases/download/v1.5/app-release.apk",
+  "notes": [
+    "test"
+  ]
 }
