@@ -1,0 +1,9 @@
+{
+  "ipAddress": "192.168.0.100",
+  "port": 8899,
+  "loggerSerial": 2978635405,
+  "unitID": 1,
+  "maxSolarKw": 6.6,
+  "maxBatteryChargeKw": 3.6,
+  "normalLoadW": 1500
+}
